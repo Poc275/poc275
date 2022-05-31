@@ -1,10 +1,23 @@
-## Hi there 👋
+# Hi there, my name is Peter O'Connor 👋
+I'm a Software Engineer at Rolls-Royce working in Derby, UK.
 
-### My Particulars 📊
-[![poc275's github stats](https://github-readme-stats.vercel.app/api?username=poc275&show_icons=true&theme=gotham)](https://github.com/poc275/github-readme-stats)
+// TODO - Add an interesting, witty bio...😄
 
-### My Top Languages 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poc275&hide=css,html)](https://github.com/poc275/github-readme-stats)
+## How to find me 🌍
+
+[![my portfolio](https://img.shields.io/badge/-https://poc275.me-4E69C8?style=flat-square&logo=googlechrome&labelColor=4E69C8")](https://poc275.me)
+[![stack overflow profile](https://img.shields.io/badge/-@poc275-343a40?style=flat-square&logo=stackoverflow&labelColor=4E69C8")](https://stackoverflow.com/users/1929718/poc275)
+[![linkedin profile](https://img.shields.io/badge/-@poc275-0077B5?style=flat-square&logo=linkedin&labelColor=0077B5")](https://linkedin.com/in/poc275)
+[![dev.to profile](https://img.shields.io/badge/-@poc275-55c1ae?style=flat-square&logo=devdotto&labelColor=55c1ae")](https://dev.to/poc275)
+
+## My Particulars 📊
+[![poc275's github stats](https://github-readme-stats.vercel.app/api?username=poc275&show_icons=true&theme=nightowl)](https://github.com/poc275/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poc275&hide=css,html&layout=compact)](https://github.com/poc275/github-readme-stats)
+
+## Certs
+
+
 
 ### P.S. 👀
 - 🔨 I’m currently working on a JAM Stack E-Commerce Project using Strapi, Snipcart & Gatsby

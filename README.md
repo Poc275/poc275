@@ -17,12 +17,12 @@ I'm a Software Engineer at Rolls-Royce Digital working in Derby, UK.
 
 ## Certs 🎉
 [![az900 badge](img/microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/8c738ab3-2984-4849-86e9-b060ce6dce74/public_url)
+[![dp900 badge](img/microsoft-certified-azure-data-fundamentals.png)](https://www.credly.com/badges/6d0559ff-e8cf-48a4-9a5e-eccc5fbd7f62/public_url)
 [![az204 badge](img/microsoft-certified-azure-developer-associate.1.png)](https://www.credly.com/badges/993e087f-3a53-48ae-8fb3-c71c1788a0eb/public_url)
 
 ## P.S. 👀
 - 🔨 I’m currently working on a JAM Stack E-Commerce Project using Strapi, Snipcart & Gatsby
 - 📊 I enjoy data visualisation and recently got an honourable mention at the [Pudding Cup awards for 2021](https://pudding.cool/process/pudding-cup-2021/) for my project on the [decline of the song intro](https://poc275.me/death-of-the-song-intro/)
-- 🧐 I’m currently studying for the Azure Data Fundamentals (DP900) certification
 - 💡 I’m currently learning about MLOps and Rust/Web Assembly
 
 (⚡ Powered by Tea ☕)

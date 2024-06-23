@@ -17,8 +17,8 @@ I'm a Software Engineer at Rolls-Royce Digital working in Derby, UK.
 
 ## Certs 🎉
 [![az900 badge](img/microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/8c738ab3-2984-4849-86e9-b060ce6dce74/public_url)
-[![dp900 badge](img/microsoft-certified-azure-data-fundamentals.png)](https://www.credly.com/badges/6d0559ff-e8cf-48a4-9a5e-eccc5fbd7f62/public_url)
-[![az204 badge](img/microsoft-certified-azure-developer-associate.1.png)](https://www.credly.com/badges/993e087f-3a53-48ae-8fb3-c71c1788a0eb/public_url)
+[![dp900 badge](img/microsoft-certified-azure-data-fundamentals.png)](https://learn.microsoft.com/api/credentials/share/en-us/PeterOConnor-3626/9C8BB3E6719E218E?sharingId=3EF481FD1B323A0B)
+[![az204 badge](img/microsoft-certified-azure-developer-associate.1.png)](https://learn.microsoft.com/api/credentials/share/en-us/PeterOConnor-3626/235CEA0E69208F28?sharingId=3EF481FD1B323A0B)
 
 ## P.S. 👀
 - 🔨 I’m currently working on a JAM Stack E-Commerce Project using Strapi, Snipcart & Gatsby

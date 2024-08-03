@@ -22,7 +22,7 @@ I'm a Software Engineer at Rolls-Royce Digital working in Derby, UK.
 
 ## P.S. 👀
 - 🔨 I’m currently working on a JAM Stack E-Commerce Project using Strapi, Snipcart & Gatsby
-- 📊 I enjoy data visualisation and recently got an honourable mention at the [Pudding Cup awards for 2021](https://pudding.cool/process/pudding-cup-2021/) for my project on the [decline of the song intro](https://poc275.me/death-of-the-song-intro/)
+- 📊 I enjoy data visualisation and recently got an honourable mention at the [Pudding Cup awards for 2021](https://web.archive.org/web/20220521032924/https://pudding.cool/process/pudding-cup-2021/#:~:text=Is%20the%20Song%20Intro%20Dead%3F%20by%20Peter%20O%27Connor) for my project on the [decline of the song intro](https://poc275.me/death-of-the-song-intro/)
 - 💡 I’m currently learning about MLOps and Rust/Web Assembly
 
 (⚡ Powered by Tea ☕)
